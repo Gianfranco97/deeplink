@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web site to resolve FLyve MDM deeplinks ",
   "main": "index.html",
-  "repository": "git@github.com:flyve-mdm/deeplink.git",
+  "repository": "git@github.com:Gianfranco97/deeplink.git",
   "author": "Gianfranco Manganiello <gmanganiello@teclib.com>",
   "license": "GPL-3.0",
   "devDependencies": {
